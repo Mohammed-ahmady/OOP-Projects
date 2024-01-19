@@ -1,0 +1,7 @@
+E:\OOP\OOP in C#\Files_In_C# Demo\bin\Debug\Files_In_C# Demo.exe.config
+E:\OOP\OOP in C#\Files_In_C# Demo\bin\Debug\Files_In_C# Demo.exe
+E:\OOP\OOP in C#\Files_In_C# Demo\bin\Debug\Files_In_C# Demo.pdb
+E:\OOP\OOP in C#\Files_In_C# Demo\obj\Debug\Files_In_C# Demo.csproj.AssemblyReference.cache
+E:\OOP\OOP in C#\Files_In_C# Demo\obj\Debug\Files_In_C# Demo.csproj.CoreCompileInputs.cache
+E:\OOP\OOP in C#\Files_In_C# Demo\obj\Debug\Files_In_C# Demo.exe
+E:\OOP\OOP in C#\Files_In_C# Demo\obj\Debug\Files_In_C# Demo.pdb

@@ -1,0 +1,10 @@
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP assignment Section (Tempreture).csproj.AssemblyReference.cache
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP_assignment_Section__Tempreture_.Form1.resources
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP_assignment_Section__Tempreture_.Properties.Resources.resources
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP assignment Section (Tempreture).csproj.GenerateResource.cache
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP assignment Section (Tempreture).csproj.CoreCompileInputs.cache
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\bin\Debug\OOP assignment Section (Tempreture).exe.config
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\bin\Debug\OOP assignment Section (Tempreture).exe
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\bin\Debug\OOP assignment Section (Tempreture).pdb
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP assignment Section (Tempreture).exe
+E:\OOP\OOP in C#\OOP assignment Section (Tempreture)\obj\Debug\OOP assignment Section (Tempreture).pdb

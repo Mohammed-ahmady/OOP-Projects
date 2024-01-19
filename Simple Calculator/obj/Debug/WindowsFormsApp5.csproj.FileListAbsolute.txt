@@ -1,0 +1,10 @@
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\Data Structure\Data Structure in C#\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

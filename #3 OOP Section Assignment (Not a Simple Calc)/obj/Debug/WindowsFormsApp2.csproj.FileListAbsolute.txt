@@ -1,0 +1,20 @@
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Data Structure\Data Structure in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\OOP\OOP in C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\OOP\OOP in C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\OOP\OOP in C#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\OOP\OOP in C#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

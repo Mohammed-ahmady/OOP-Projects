@@ -1,0 +1,6 @@
+
+Name Of The Drug  :  Price :  Id :  Countatiy 
+Name Of The Drug    : Comtrex                        Price               : 110                            Id                  : 258369147                      Countatiy           : 154                            
+Name Of The Drug    :                                Price               :                                Id                  :                                Countatiy           :                                
+Name Of The Drug    : kioklo12                       Price               : 21                             Id                  : 32323                          Countatiy           :                                
+Name Of The Drug    : Comtrex                        Price               : 154                            Id                  : 147893256                      Countatiy           : 1542                           
